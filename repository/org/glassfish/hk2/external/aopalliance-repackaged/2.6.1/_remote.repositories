@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 28 23:33:06 BDT 2022
+aopalliance-repackaged-2.6.1.jar>central=
+aopalliance-repackaged-2.6.1-sources.jar>central=
+aopalliance-repackaged-2.6.1.pom>central=
